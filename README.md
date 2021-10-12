@@ -35,7 +35,7 @@
 <h3 align="center">Stopwatch</h3>
 
   <p align="center">
-    Stopwatch yang digunakan untuk menghitung pengerjaan sebuah task. Dibuat menggunakan NodeJS dan PostgreSQL.
+    A Stopwatch that is used for calculating the time that students need to do their tasks. This is a mini project made mostly using Node JS and Postgre SQL
     <br />
     <a href="https://github.com/3BD4-Webdev-Kelompok8/NodeJS-Postgre-Stopwatch"><strong>Explore the docs »</strong></a>
     <br />
@@ -99,11 +99,11 @@ This project is still running and needs some improvements and also the addition 
 
 ### Built With
 
-* [HTML]
-* [CSS]
-* [Javascript]
-* [Node.js]
-* [PostgreSQL]
+* HTML
+* CSS
+* Javascript
+* Node.js
+* PostgreSQL
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
